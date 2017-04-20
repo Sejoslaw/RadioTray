@@ -1,0 +1,373 @@
+<bookmarks>
+<group name="root">
+    <group name="Jazz">
+        <bookmark name="Smooth Jazz" url="http://smoothjazz.com/streams/smoothjazz_128.pls"/>
+        <bookmark name="SKY.fm Piano Jazz" url="http://listen.sky.fm/public1/pianojazz.pls"/>
+        <bookmark name="SKY.fm Smooth Jazz" url="http://listen.sky.fm/public1/smoothjazz.pls"/>
+        <bookmark name="Sonic Universe" url="http://somafm.com/sonicuniverse.pls"/>
+        <bookmark name="Blue FM" url="http://bluefm.net/listen.pls"/>
+        <bookmark name="The Breeze" url="mmsh://wms-rly.181.fm/181-breeze?MSWMExt=.asf"/>
+    </group>
+    <group name="Latin">
+        <bookmark name="Onda Tropical" url="http://monkey.wavestreamer.com:2958/listen.m3u?sid=1"/>
+        <bookmark name="Top Latino Radio" url="http://online.radiodifusion.net:8020/listen.pls"/>
+        <bookmark name="Salsa Stream" url="http://listen.sky.fm/public3/salsa.pls"/>
+        <bookmark name="Reggaeton 24/7" url="http://cc.net2streams.com/tunein.php/reggaeton/playlist.pls"/>
+        <bookmark name="Suave" url="http://yp.shoutcast.com/sbin/tunein-station.pls?id=1572149"/>
+    </group>
+    <group name="Classic Rock">
+        <bookmark name="181.FM Classic Hits" url="http://yp.shoutcast.com/sbin/tunein-station.pls?id=153501"/>
+        <bookmark name=".977 Classic Rock" url="http://www.977music.com/tunein/web/classicrock.asx"/>
+        <bookmark name="80s Sky.FM" url="http://listen.sky.fm/public3/the80s.pls"/>
+        <bookmark name="Covers" url="http://somafm.com/covers.pls"/>
+    </group>
+    <group name="Classical">
+        <bookmark name="KDFC" url="http://provisioning.streamtheworld.com/pls/KDFCFM.pls"/>
+        <bookmark name="Classic FM" url="http://media-ice.musicradio.com/ClassicFMMP3.m3u"/>
+        <bookmark name="WCPE" url="http://www.ibiblio.org/wcpe/wcpe.pls"/>
+        <bookmark name="CINEMIX" url="http://cinemix.us/cine.asx"/>
+        <bookmark name="SKY.fm Soundtracks" url="http://listen.sky.fm/public1/soundtracks.pls"/>
+        <bookmark name="SKY.fm Mostly Classical" url="http://listen.sky.fm/public1/classical.pls"/>
+    </group>
+    <group name="Pop / Rock">
+        <bookmark name="Radio Paradise" url="http://www.radioparadise.com/musiclinks/rp_128.m3u"/>
+        <bookmark name=".977 The Hitz Channel" url="http://www.977music.com/tunein/web/hitz.asx"/>
+        <bookmark name="Enjoy Station" url="http://yp.shoutcast.com/sbin/tunein-station.pls?id=1463895"/>
+        <bookmark name="SKY.fm Top Hits" url="http://listen.sky.fm/public1/tophits.pls"/>
+        <bookmark name="Indie Pop Rocks!" url="http://somafm.com/indiepop.pls"/>
+        <bookmark name="PopTron" url="http://somafm.com/poptron.pls"/>
+    </group>
+    <group name="Oldies">
+        <bookmark name="AM 1710" url="http://lin2.ash.fast-serv.com:9022/listen.pls"/>
+        <bookmark name="AM 600" url="http://redmanstreams.com:8740/listen.pls"/>
+        <bookmark name="WNAR" url="http://live.wnar-am.com:8500/listen.pls"/>
+        <bookmark name="SKY.fm Oldies" url="http://listen.sky.fm/public1/oldies.pls"/>
+    </group>
+    <group name="Chill">
+        <bookmark name="181.FM" url="http://yp.shoutcast.com/sbin/tunein-station.pls?id=35402"/>
+        <bookmark name="Lounge Radio" url="http://www.lounge-radio.com/listen128.m3u"/>
+        <bookmark name="Beat Blender" url="http://somafm.com/beatblender.pls"/>
+        <bookmark name="Secret Agent" url="http://somafm.com/secretagent.pls"/>
+        <bookmark name="Groove Salad" url="http://somafm.com/groovesalad.pls"/>
+        <bookmark name="Illinois Street Lounge" url="http://somafm.com/illstreet.pls"/>
+    </group>
+    <group name="Country">
+        <bookmark name="SKY.fm Country" url="http://listen.sky.fm/public1/country.pls"/>
+        <bookmark name="Boot Liquor" url="http://somafm.com/bootliquor.pls"/>
+        <bookmark name="US 181" url="mmsh://wms-rly.181.fm/181-us181?MSWMExt=.asf"/>
+        <bookmark name="Real Country" url="mmsh://wms-rly.181.fm/181-realcountry?MSWMExt=.asf"/>
+        <bookmark name="Highway 181" url="mmsh://wms-rly.181.fm/181-highway?MSWMExt=.asf"/>
+        <bookmark name="Country 108" url="http://www.country108.com/listen.pls"/>
+    </group>
+    <group name="Techno / Electronic">
+        <bookmark name="Drone Zone" url="http://somafm.com/dronezone.pls"/>
+        <bookmark name="Space Station Soma" url="http://somafm.com/spacestation.pls"/>
+        <bookmark name="cliqhop idm" url="http://somafm.com/cliqhop.pls"/>
+        <bookmark name="Black Rock FM" url="http://somafm.com/brfm.pls"/>
+        <bookmark name="New Dance Radio" url="http://jbstream.net/tunein.php/blackoutworm/playlist.asx"/>
+		<bookmark name="DubStep Beyond" url="http://somafm.com/play/dubstep32"/>
+    </group>
+    <group name="Community">
+        <bookmark name="Jupiter Broadcast" url="http://jblive.fm/"/>
+        <bookmark name="WCRS LPFM Columbus" url="http://sh4.audio-stream.com/tunein.php/pleonard/playlist.pls"/>
+        <bookmark name="WBEZ" url="http://wbez.ic.llnwd.net/stream/wbez_91_5_fm.pls"/>
+    </group>
+	<group name="Bookmarked">
+		<bookmark name="HOT 100 - Goraca Setka Nowosci." url="http://www.polskastacja.pl/play/aac_hot100.pls"/>
+		<bookmark name="Muzyka Na TOPIE" url="http://www.polskastacja.pl/play/aac_mnt.pls"/>
+		<bookmark name="Dance 100" url="http://www.polskastacja.pl/play/aac_dance100.pls"/>
+		<bookmark name="Soul" url="http://www.polskastacja.pl/play/aac_soul.pls"/>
+		<bookmark name="Polski Hip Hop" url="http://www.polskastacja.pl/play/aac_polskihh.pls"/>
+		<bookmark name="RnB" url="http://www.polskastacja.pl/play/aac_rnb.pls"/>
+		<bookmark name="Club HITS" url="http://www.polskastacja.pl/play/aac_clubhits.pls"/>
+		<bookmark name="HOT House" url="http://www.polskastacja.pl/play/aac_hothouse.pls"/>
+		<bookmark name="DJ TOP 50" url="http://www.polskastacja.pl/play/aac_djtop50.pls"/>
+		<bookmark name="Polski Power Dance" url="http://www.polskastacja.pl/play/aac_powerdance.pls"/>
+	  </group>
+	  <group name="PolskaStacja">
+		<group name="PolskaStacja - NOWE">
+			<bookmark name="Dance 100" url="http://www.polskastacja.pl/play/aac_dance100.pls"/>
+			<bookmark name="Bollywood" url="http://www.polskastacja.pl/play/aac_bollywood.pls"/>
+			<bookmark name="Trance Vocal" url="http://www.polskastacja.pl/play/aac_trancevocal.pls"/>
+			<bookmark name="Fashion" url="http://www.polskastacja.pl/play/aac_fashion.pls"/>
+			<bookmark name="Funky House" url="http://www.polskastacja.pl/play/aac_funkyhouse.pls"/>
+			<bookmark name="House Progressive" url="http://www.polskastacja.pl/play/aac_houseprogressive.pls"/>
+			<bookmark name="Ibiza Hits" url="http://www.polskastacja.pl/play/aac_ibizahits.pls"/>
+			<bookmark name="Lounge" url="http://www.polskastacja.pl/play/aac_lounge.pls"/>
+			<bookmark name="Polska Scena Alternatywna" url="http://www.polskastacja.pl/play/aac_psa.pls"/>
+			<bookmark name="Punk" url="http://www.polskastacja.pl/play/aac_punk.pls"/>
+			<bookmark name="Electro" url="http://www.polskastacja.pl/play/aac_electro.pls"/>
+			<bookmark name="Premiery i Nowosci Muzyczne" url="http://www.polskastacja.pl/play/aac_premiery.pls"/>
+			<bookmark name="Indie Rock" url="http://www.polskastacja.pl/play/aac_indie.pls"/>
+		</group>
+		<group name="PolskaStacja - Polskie">
+			<bookmark name="Tylko Polskie Przeboje" url="http://www.polskastacja.pl/play/aac_tpp.pls"/>
+			<bookmark name="Polskie Niezapomniane Przeboje" url="http://www.polskastacja.pl/play/aac_pnp.pls"/>
+			<bookmark name="DISCO POLO RADIO" url="http://www.polskastacja.pl/play/aac_discopolo.pls"/>
+			<bookmark name="Poezja Spiewana i nie tylko ..." url="http://www.polskastacja.pl/play/aac_poezja.pls"/>
+			<bookmark name="Polska Muzyka Chrzescijanska" url="http://www.polskastacja.pl/play/aac_chrzescijanska.pls"/>
+			<bookmark name="Polski Hip Hop" url="http://www.polskastacja.pl/play/aac_polskihh.pls"/>
+			<bookmark name="Szanty" url="http://www.polskastacja.pl/play/aac_szanty.pls"/>
+			<bookmark name="FOLK" url="http://www.polskastacja.pl/play/aac_folk.pls"/>
+			<bookmark name="Biesiada" url="http://www.polskastacja.pl/play/aac_biesiada.pls"/>
+			<bookmark name="Dzieciom" url="http://www.polskastacja.pl/play/aac_dzieciom.pls"/>
+			<bookmark name="Biesiada Slaska" url="http://www.polskastacja.pl/play/aac_biesiadaslaska.pls"/>
+			<bookmark name="Polskie Reggae" url="http://www.polskastacja.pl/play/aac_polskiereggae.pls"/>
+			<bookmark name="Polski Power Dance" url="http://www.polskastacja.pl/play/aac_powerdance.pls"/>
+			<bookmark name="Polska Scena Alternatywna" url="http://www.polskastacja.pl/play/aac_psa.pls"/>
+		</group>
+		<group name="PolskaStacja - Pop">
+			<bookmark name="HOT 100 - Goraca Setka Nowosci." url="http://www.polskastacja.pl/play/aac_hot100.pls"/>
+			<bookmark name="Muzyka Na TOPIE" url="http://www.polskastacja.pl/play/aac_mnt.pls"/>
+			<bookmark name="Tylko Polskie Przeboje" url="http://www.polskastacja.pl/play/aac_tpp.pls"/>
+			<bookmark name="Najwieksze Przeboje 80 90" url="http://www.polskastacja.pl/play/aac_np.pls"/>
+			<bookmark name="Przeboje We Dwoje" url="http://www.polskastacja.pl/play/aac_love.pls"/>
+			<bookmark name="Piosenki z Filmow" url="http://www.polskastacja.pl/play/aac_piosenkifilmowe.pls"/>
+			<bookmark name="CCM - Contemporary Christian" url="http://www.polskastacja.pl/play/aac_ccm.pls"/>
+			<bookmark name="Polska Muzyka Chrzescijanska" url="http://www.polskastacja.pl/play/aac_chrzescijanska.pls"/>
+			<bookmark name="Eurowizja" url="http://www.polskastacja.pl/play/aac_eurowizja.pls"/>
+			<bookmark name="Etno POP" url="http://www.polskastacja.pl/play/aac_etnopop.pls"/>
+			<bookmark name="Boysband And Girlsband" url="http://www.polskastacja.pl/play/aac_boysband.pls"/>
+			<bookmark name="Premiery i Nowosci Muzyczne" url="http://www.polskastacja.pl/play/aac_premiery.pls"/>
+		</group>
+		<group name="PolskaStacja - Dance / DJ">
+			<bookmark name="Dance 100" url="http://www.polskastacja.pl/play/aac_dance100.pls"/>
+			<bookmark name="DISCO POLO RADIO" url="http://www.polskastacja.pl/play/aac_discopolo.pls"/>
+			<bookmark name="80s &amp; Italo Disco" url="http://www.polskastacja.pl/play/aac_italo.pls"/>
+			<bookmark name="HardStyle" url="http://www.polskastacja.pl/play/aac_hardstyle.pls"/>
+			<bookmark name="Drum And Bass" url="http://www.polskastacja.pl/play/aac_drumbass.pls"/>
+			<bookmark name="Electro-House" url="http://www.polskastacja.pl/play/aac_electrohouse.pls"/>
+			<bookmark name="Era DISCO" url="http://www.polskastacja.pl/play/aac_eradisco.pls"/>
+			<bookmark name="Club HITS" url="http://www.polskastacja.pl/play/aac_clubhits.pls"/>
+			<bookmark name="HOT House" url="http://www.polskastacja.pl/play/aac_hothouse.pls"/>
+			<bookmark name="DJ TOP 50" url="http://www.polskastacja.pl/play/aac_djtop50.pls"/>
+			<bookmark name="PARTY" url="http://www.polskastacja.pl/play/aac_party.pls"/>
+			<bookmark name="TRAX (techno,trance)" url="http://www.polskastacja.pl/play/aac_trax.pls"/>
+			<bookmark name="House &amp; Dance" url="http://www.polskastacja.pl/play/aac_house.pls"/>
+			<bookmark name="Polski Power Dance" url="http://www.polskastacja.pl/play/aac_powerdance.pls"/>
+			<bookmark name="Trance Vocal" url="http://www.polskastacja.pl/play/aac_trancevocal.pls"/>
+			<bookmark name="Fashion" url="http://www.polskastacja.pl/play/aac_fashion.pls"/>
+			<bookmark name="Funky House" url="http://www.polskastacja.pl/play/aac_funkyhouse.pls"/>
+			<bookmark name="House Progressive" url="http://www.polskastacja.pl/play/aac_houseprogressive.pls"/>
+			<bookmark name="Ibiza Hits" url="http://www.polskastacja.pl/play/aac_ibizahits.pls"/>
+			<bookmark name="Lounge" url="http://www.polskastacja.pl/play/aac_lounge.pls"/>
+			<bookmark name="Premiery i Nowosci Muzyczne" url="http://www.polskastacja.pl/play/aac_premiery.pls"/>
+		</group>
+		<group name="PolskaStacja - Rock">
+			<bookmark name="Tylko Polskie Przeboje" url="http://www.polskastacja.pl/play/aac_tpp.pls"/>
+			<bookmark name="Przeboje We Dwoje" url="http://www.polskastacja.pl/play/aac_love.pls"/>
+			<bookmark name="Tylko ROCK" url="http://www.polskastacja.pl/play/aac_rock.pls"/>
+			<bookmark name="Piosenki z Filmow" url="http://www.polskastacja.pl/play/aac_piosenkifilmowe.pls"/>
+			<bookmark name="CCM - Contemporary Christian" url="http://www.polskastacja.pl/play/aac_ccm.pls"/>
+			<bookmark name="Polska Muzyka Chrzescijanska" url="http://www.polskastacja.pl/play/aac_chrzescijanska.pls"/>
+			<bookmark name="Ballady Rockowe" url="http://www.polskastacja.pl/play/aac_balladyrockowe.pls"/>
+			<bookmark name="Mocne Brzmienie Rocka" url="http://www.polskastacja.pl/play/aac_mocne.pls"/>
+			<bookmark name="Modern ROCK" url="http://www.polskastacja.pl/play/aac_mrock.pls"/>
+			<bookmark name="Polska Scena Alternatywna" url="http://www.polskastacja.pl/play/aac_psa.pls"/>
+			<bookmark name="Punk" url="http://www.polskastacja.pl/play/aac_punk.pls"/>
+			<bookmark name="Premiery i Nowosci Muzyczne" url="http://www.polskastacja.pl/play/aac_premiery.pls"/>
+			<bookmark name="Indie Rock" url="http://www.polskastacja.pl/play/aac_indie.pls"/>
+		</group>
+		<group name="PolskaStacja - Nowosci">
+			<bookmark name="HOT 100 - Goraca Setka Nowosci." url="http://www.polskastacja.pl/play/aac_hot100.pls"/>
+			<bookmark name="Muzyka Na TOPIE" url="http://www.polskastacja.pl/play/aac_mnt.pls"/>
+			<bookmark name="Tylko Polskie Przeboje" url="http://www.polskastacja.pl/play/aac_tpp.pls"/>
+			<bookmark name="Dance 100" url="http://www.polskastacja.pl/play/aac_dance100.pls"/>
+			<bookmark name="HardStyle" url="http://www.polskastacja.pl/play/aac_hardstyle.pls"/>
+			<bookmark name="Drum And Bass" url="http://www.polskastacja.pl/play/aac_drumbass.pls"/>
+			<bookmark name="Electro-House" url="http://www.polskastacja.pl/play/aac_electrohouse.pls"/>
+			<bookmark name="Polski Hip Hop" url="http://www.polskastacja.pl/play/aac_polskihh.pls"/>
+			<bookmark name="RnB" url="http://www.polskastacja.pl/play/aac_rnb.pls"/>
+			<bookmark name="Club HITS" url="http://www.polskastacja.pl/play/aac_clubhits.pls"/>
+			<bookmark name="HOT House" url="http://www.polskastacja.pl/play/aac_hothouse.pls"/>
+			<bookmark name="DJ TOP 50" url="http://www.polskastacja.pl/play/aac_djtop50.pls"/>
+			<bookmark name="TRAX (techno,trance)" url="http://www.polskastacja.pl/play/aac_trax.pls"/>
+			<bookmark name="HIP HOP" url="http://www.polskastacja.pl/play/aac_hiphop.pls"/>
+			<bookmark name="House &amp; Dance" url="http://www.polskastacja.pl/play/aac_house.pls"/>
+			<bookmark name="Trance Vocal" url="http://www.polskastacja.pl/play/aac_trancevocal.pls"/>
+			<bookmark name="Fashion" url="http://www.polskastacja.pl/play/aac_fashion.pls"/>
+			<bookmark name="Funky House" url="http://www.polskastacja.pl/play/aac_funkyhouse.pls"/>
+			<bookmark name="House Progressive" url="http://www.polskastacja.pl/play/aac_houseprogressive.pls"/>
+			<bookmark name="Ibiza Hits" url="http://www.polskastacja.pl/play/aac_ibizahits.pls"/>
+			<bookmark name="Lounge" url="http://www.polskastacja.pl/play/aac_lounge.pls"/>
+		</group>
+		<group name="PolskaStacja - Przeboje">
+			<bookmark name="Najwieksze Przeboje 80 90" url="http://www.polskastacja.pl/play/aac_np.pls"/>
+			<bookmark name="Najwieksze Przeboje 60 70" url="http://www.polskastacja.pl/play/aac_oldies.pls"/>
+			<bookmark name="Dance 100" url="http://www.polskastacja.pl/play/aac_dance100.pls"/>
+			<bookmark name="Polskie Niezapomniane Przeboje" url="http://www.polskastacja.pl/play/aac_pnp.pls"/>
+			<bookmark name="Przeboje We Dwoje" url="http://www.polskastacja.pl/play/aac_love.pls"/>
+			<bookmark name="80s &amp; Italo Disco" url="http://www.polskastacja.pl/play/aac_italo.pls"/>
+			<bookmark name="Era DISCO" url="http://www.polskastacja.pl/play/aac_eradisco.pls"/>
+			<bookmark name="PARTY" url="http://www.polskastacja.pl/play/aac_party.pls"/>
+		</group>
+		<group name="PolskaStacja - Czarna Muza">
+			<bookmark name="Soul" url="http://www.polskastacja.pl/play/aac_soul.pls"/>
+			<bookmark name="Polski Hip Hop" url="http://www.polskastacja.pl/play/aac_polskihh.pls"/>
+			<bookmark name="RnB" url="http://www.polskastacja.pl/play/aac_rnb.pls"/>
+			<bookmark name="Blues" url="http://www.polskastacja.pl/play/aac_blues.pls"/>
+			<bookmark name="HIP HOP" url="http://www.polskastacja.pl/play/aac_hiphop.pls"/>
+			<bookmark name="W rytmie REGGAE" url="http://www.polskastacja.pl/play/aac_reggae.pls"/>
+			<bookmark name="Dancehall" url="http://www.polskastacja.pl/play/aac_dancehall.pls"/>
+		</group>
+		<group name="PolskaStacja - Elektronika">
+			<bookmark name="Dance 100" url="http://www.polskastacja.pl/play/aac_dance100.pls"/>
+			<bookmark name="80s &amp; Italo Disco" url="http://www.polskastacja.pl/play/aac_italo.pls"/>
+			<bookmark name="HardStyle" url="http://www.polskastacja.pl/play/aac_hardstyle.pls"/>
+			<bookmark name="Drum And Bass" url="http://www.polskastacja.pl/play/aac_drumbass.pls"/>
+			<bookmark name="Electro-House" url="http://www.polskastacja.pl/play/aac_electrohouse.pls"/>
+			<bookmark name="Klasyka Muzyki Elektronicznej" url="http://www.polskastacja.pl/play/aac_elektronika.pls"/>
+			<bookmark name="Club HITS" url="http://www.polskastacja.pl/play/aac_clubhits.pls"/>
+			<bookmark name="HOT House" url="http://www.polskastacja.pl/play/aac_hothouse.pls"/>
+			<bookmark name="DJ TOP 50" url="http://www.polskastacja.pl/play/aac_djtop50.pls"/>
+			<bookmark name="Chillout" url="http://www.polskastacja.pl/play/aac_chillout.pls"/>
+			<bookmark name="PARTY" url="http://www.polskastacja.pl/play/aac_party.pls"/>
+			<bookmark name="TRAX (techno,trance)" url="http://www.polskastacja.pl/play/aac_trax.pls"/>
+			<bookmark name="House &amp; Dance" url="http://www.polskastacja.pl/play/aac_house.pls"/>
+			<bookmark name="EDEN (New Age &amp; World Music)" url="http://www.polskastacja.pl/play/aac_eden.pls"/>
+			<bookmark name="Polski Power Dance" url="http://www.polskastacja.pl/play/aac_powerdance.pls"/>
+			<bookmark name="Trance Vocal" url="http://www.polskastacja.pl/play/aac_trancevocal.pls"/>
+			<bookmark name="Fashion" url="http://www.polskastacja.pl/play/aac_fashion.pls"/>
+			<bookmark name="Funky House" url="http://www.polskastacja.pl/play/aac_funkyhouse.pls"/>
+			<bookmark name="House Progressive" url="http://www.polskastacja.pl/play/aac_houseprogressive.pls"/>
+			<bookmark name="Ibiza Hits" url="http://www.polskastacja.pl/play/aac_ibizahits.pls"/>
+			<bookmark name="Lounge" url="http://www.polskastacja.pl/play/aac_lounge.pls"/>
+			<bookmark name="Electro" url="http://www.polskastacja.pl/play/aac_electro.pls"/>
+		</group>
+		<group name="PolskaStacja - Folk">
+			<bookmark name="Country" url="http://www.polskastacja.pl/play/aac_country.pls"/>
+			<bookmark name="FOLK" url="http://www.polskastacja.pl/play/aac_folk.pls"/>
+			<bookmark name="Biesiada" url="http://www.polskastacja.pl/play/aac_biesiada.pls"/>
+			<bookmark name="Muzyka Ludowa" url="http://www.polskastacja.pl/play/aac_muzykaludowa.pls"/>
+			<bookmark name="Biesiada Slaska" url="http://www.polskastacja.pl/play/aac_biesiadaslaska.pls"/>
+		</group>
+		<group name="PolskaStacja - Klasyka">
+			<bookmark name="Klasycznie" url="http://www.polskastacja.pl/play/aac_klas.pls"/>
+			<bookmark name="Muzyka filmowa" url="http://www.polskastacja.pl/play/aac_film.pls"/>
+		</group>
+		<group name="PolskaStacja - Relaks">
+			<bookmark name="Przeboje We Dwoje" url="http://www.polskastacja.pl/play/aac_love.pls"/>
+			<bookmark name="Soul" url="http://www.polskastacja.pl/play/aac_soul.pls"/>
+			<bookmark name="Ballady Rockowe" url="http://www.polskastacja.pl/play/aac_balladyrockowe.pls"/>
+			<bookmark name="Smooth Jazz" url="http://www.polskastacja.pl/play/aac_smoothjazz.pls"/>
+			<bookmark name="Chillout" url="http://www.polskastacja.pl/play/aac_chillout.pls"/>
+			<bookmark name="Klasycznie" url="http://www.polskastacja.pl/play/aac_klas.pls"/>
+			<bookmark name="Muzyka filmowa" url="http://www.polskastacja.pl/play/aac_film.pls"/>
+			<bookmark name="Lounge" url="http://www.polskastacja.pl/play/aac_lounge.pls"/>
+		</group>
+		<group name="PolskaStacja - Inne">
+			<bookmark name="Poezja Spiewana i nie tylko ..." url="http://www.polskastacja.pl/play/aac_poezja.pls"/>
+			<bookmark name="Eurowizja" url="http://www.polskastacja.pl/play/aac_eurowizja.pls"/>
+			<bookmark name="Muzyka Francuska" url="http://www.polskastacja.pl/play/aac_francja.pls"/>
+			<bookmark name="Szanty" url="http://www.polskastacja.pl/play/aac_szanty.pls"/>
+			<bookmark name="ITALIA" url="http://www.polskastacja.pl/play/aac_italia.pls"/>
+			<bookmark name="Klasyka Muzyki Elektronicznej" url="http://www.polskastacja.pl/play/aac_elektronika.pls"/>
+			<bookmark name="Country" url="http://www.polskastacja.pl/play/aac_country.pls"/>
+			<bookmark name="Dzieciom" url="http://www.polskastacja.pl/play/aac_dzieciom.pls"/>
+			<bookmark name="Latino" url="http://www.polskastacja.pl/play/aac_latino.pls"/>
+			<bookmark name="EDEN (New Age &amp; World Music)" url="http://www.polskastacja.pl/play/aac_eden.pls"/>
+		</group>
+	</group>
+	<group name="Radio Zet">
+		<bookmark name="Radio Zet" url="http://91.121.179.221:8050"/>
+		<bookmark name="Zet Classic Rock" url="http://zetclassicrock-02.eurozet.pl:8100/ "/>
+		<bookmark name="Zet Classic" url="http://zetclassic-01.eurozet.pl:8100/"/>
+		<bookmark name="Zet Dance" url="http://zetdance-01.eurozet.pl:8000/"/>
+		<bookmark name="Zet Gold" url="http://zetgold-01.eurozet.pl:8000/"/>
+		<bookmark name="Zet Hits" url="http://zet-hits-01.eurozet.pl:8000"/>
+		<bookmark name="Zet Hot" url="http://zethot-02.eurozet.pl:8000/"/>
+		<bookmark name="Zet Lato" url="http://latozet-02.eurozet.pl:8300"/>
+		<bookmark name="Zet Love" url="http://zetlove-01.eurozet.pl:8000/ "/>
+		<bookmark name="Zet Party" url="http://zetparty-01.eurozet.pl:8100/ "/>
+		<bookmark name="Zet Rock &amp; Rap" url="http://zet-rockrap-01.eurozet.pl:8000/ "/>
+		<bookmark name="Zet Rock" url="http://zetrock-01.eurozet.pl:8000/ "/>
+		<bookmark name="Zet Sade" url="http://zet-sade-01.eurozet.pl:8500/ "/>
+		<bookmark name="Zet Slow" url="http://zet-slow-01.eurozet.pl:8200/ "/>
+		<bookmark name="Zet Soul" url="http://zetsoul-02.eurozet.pl:8100/ "/>
+		<bookmark name="Zet Super Gold" url="http://zetsupergold-01.eurozet.pl:8000/ "/>
+		<bookmark name="Zet 2000" url="http://zet-2000-02.eurozet.pl:8100/ "/>
+		<bookmark name="Zet Osiecka" url="http://zetosi-01.eurozet.pl:8000/"/>
+		<bookmark name="Zet Chilli" url="http://chillizetmp3-05.eurozet.pl:8400"/>
+		<bookmark name="Zet Polskie" url="http://zetpl-02.eurozet.pl:8100"/>
+	</group>
+	<group name="Polskie Radio">
+		<bookmark name="Jedynka" url="http://www.polskieradio.pl/st/program1M.asx"/>
+		<bookmark name="Dwójka" url="http://www.polskieradio.pl/st/program2.asx"/>
+		<bookmark name="Trójka" url="http://www.polskieradio.pl/st/program3M.asx"/>
+		<bookmark name="Czwórka" url="http://www.polskieradio.pl/st/program4.asx"/>
+		<bookmark name="Polonia" url="http://www.polskieradio.pl/st/RadioPolonia.asx"/>
+		<bookmark name="Eska Żary" url="http://static.eska.pl/content/streams/pls/eska-zary.pls"/>
+	</group>
+	<group name="Radio ESKA">
+		<bookmark name="Eska Rock" url="http://poznan5.radio.pionier.net.pl:8000/eskarock.mp3"/>
+		<bookmark name="Eska Warszawa" url="http://www.radio.pionier.net.pl/stream.pls?radio=eskawarszawamp3"/>
+		<bookmark name="Eska Club" url="http://warszawa1-1.radio.pionier.net.pl:8000/pl/eska-stream4-1.mp3"/>
+		<bookmark name="Eska Sunshine Live " url="http://62.27.26.27/sunshinelive/livestream.mp3"/>
+		<bookmark name="Eska Wrocław" url="http://www.radio.pionier.net.pl/stream.pls?radio=eskawroclawmp3"/>
+		<bookmark name="Eska Kraków" url="http://www.radio.pionier.net.pl/stream.pls?radio=eskakrakowmp3"/>
+		<bookmark name="Eska Łódź" url="http://www.radio.pionier.net.pl/stream.pls?radio=eskalodzmp3"/>
+		<bookmark name="Eska Poznań" url="http://poznan5.radio.pionier.net.pl:8000/pl/eska-poznan.mp3"/>
+		<bookmark name="Eska Śląsk" url="http://www.radio.pionier.net.pl/stream.pls?radio=eskaslaskmp3"/>
+		<bookmark name="Eska Szczecin" url="http://poznan5-2.radio.pionier.net.pl:8000/eska-szczecin.mp3"/>
+		<bookmark name="Eska Trójmiasto" url="http://poznan5-1.radio.pionier.net.pl:8000/eska-trojmiasto.mp3"/>
+		<bookmark name="Eska Heavy" url="http://gramy01.eska.fm:8000/eska_heavy1.mp3"/>
+		<bookmark name="Eska Extremalny WF" url="http://static.eska.pl/content/streams/pls/eska-WF.pls"/>
+		<bookmark name="Eska Elbląg" url="http://static.eska.pl/content/streams/pls/eska-elblag.pls"/>
+		<bookmark name="Eska Gorzów" url="http://static.eska.pl/content/streams/pls/eska-gorzow.pls"/>
+		<bookmark name="Eska Hity" url="http://static.eska.pl/content/streams/pls/eska-kalisz-ostrow.pls"/>
+		<bookmark name="Eska Płock" url="http://static.eska.pl/content/streams/pls/eska-plock.pls"/>
+		<bookmark name="Eska Przemyśl" url="http://static.eska.pl/content/streams/pls/eska-przemysl.pls"/>
+		<bookmark name="Eska Radom" url="http://static.eska.pl/content/streams/pls/eska-radom.pls"/>
+		<bookmark name="Eska Rzeszów" url="http://static.eska.pl/content/streams/pls/eska-rzeszow.pls"/>
+		<bookmark name="Eska Siedlce" url="http://static.eska.pl/content/streams/pls/eska-siedlce.pls"/>
+		<bookmark name="Eska Starachowice" url="http://static.eska.pl/content/streams/pls/eska-starachowice.pls"/>
+		<bookmark name="Eska Szczecinek" url="http://static.eska.pl/content/streams/pls/eska-szczecinek.pls"/>
+		<bookmark name="Eska Tarnów" url="http://static.eska.pl/content/streams/pls/eska-tarnow.pls"/>
+		<bookmark name="Eska Toruń" url="http://static.eska.pl/content/streams/pls/eska-torun.pls"/>
+		<bookmark name="Eska Zamość" url="http://static.eska.pl/content/streams/pls/eska-zamosc.pls"/>
+		<bookmark name="Eska Żywiec" url="http://static.eska.pl/content/streams/pls/eska-zywiec.pls"/>
+		<bookmark name="Eska Piła" url="http://static.eska.pl/content/streams/pls/eska-pila.pls"/>
+		<bookmark name="Eska Olsztyn" url="http://static.eska.pl/content/streams/pls/eska-olsztyn.pls"/>
+		<bookmark name="Eska Małopolska" url="http://static.eska.pl/content/streams/pls/eska-malopolska.pls"/>
+		<bookmark name="Eska Lublin" url="http://static.eska.pl/content/streams/pls/eska-lublin.pls"/>
+		<bookmark name="Eska Leszno" url="http://static.eska.pl/content/streams/pls/eska-leszno.pls"/>
+		<bookmark name="Eska Koszalin" url="http://static.eska.pl/content/streams/pls/eska-koszalin.pls"/>
+		<bookmark name="Eska Kielce" url="http://static.eska.pl/content/streams/pls/eska-kielce.pls"/>
+		<bookmark name="Eska Bydgoszcz" url="http://static.eska.pl/content/streams/pls/eska-bydgoszcz.pls"/>
+		<bookmark name="Eska Białystok" url="http://static.eska.pl/content/streams/pls/eska-bialystok.pls"/>
+		<bookmark name="Eska Bełchatów" url="http://static.eska.pl/content/streams/pls/eska-belchatow.pls"/>
+		<bookmark name="Zielona Góra" url="http://static.eska.pl/content/streams/pls/eska-zielona-gora.pls"/>
+		<bookmark name="Eska Radio" url="http://www.radio.pionier.net.pl/stream.pls?radio=eska-stream1"/>
+	</group>
+	<group name="Radiostacja ULICZNIK">
+		<bookmark name="Kanał Główny" url="http://94.23.200.43:7000"/>
+		<bookmark name="Rudeboys Radio" url="http://94.23.200.43:7100/"/>
+		<bookmark name="Zadyma" url="http://94.23.200.43:7702 "/>
+		<bookmark name="Kingston Radio" url="http://94.23.200.43:7300/"/>
+		<bookmark name="Punkowe archiwum" url="http://94.23.200.43:7202/listen.pls "/>
+		<bookmark name="Otwarty Garaż" url="http://94.23.200.43:7500/ "/>
+		<bookmark name="Rockoteka" url="http://94.23.200.43:7402 "/>
+		<bookmark name="Radio Dead Sound" url="http://94.23.200.43:7900"/>
+		<bookmark name="Tabakowy" url="http://94.23.200.43:7600 "/>
+		<bookmark name="EXtra" url="http://94.23.200.43:7950"/>
+		<bookmark name="Radiostacja Ulicznik Wzmacniacz" url="http://94.23.200.43:7800/ "/>
+	</group>
+	<group name="AntyRadio">
+		<bookmark name="Warszawa" url="http://94.23.89.48:7000 "/>
+		<bookmark name="Katowice" url="http://94.23.89.48:7200 "/>
+		<bookmark name="Kraków" url="http://94.23.89.48:7300 "/>
+		<bookmark name="Made in Poland" url="http://antypl-01.eurozet.pl:8100 "/>
+		<bookmark name="Hard" url="http://antyhard-01.eurozet.pl:8500"/>
+		<bookmark name="Greatest Hits" url="http://antygreatest-01.eurozet.pl:8000 "/>
+		<bookmark name="Covers " url="http://antycovers-02.eurozet.pl:8100 "/>
+		<bookmark name="Classic Rock" url="http://antyclassix-01.eurozet.pl:8000 "/>
+	</group>
+	<group name="Open FM">
+		<bookmark name="100% Kazik" url="http://gr-relay-6.gaduradio.pl/35"/>
+		<bookmark name="100% Dżem" url="http://gr-relay-6.gaduradio.pl/15"/>
+		<bookmark name="Odgłosy Natury" url="http://gr-relay-2.gaduradio.pl/52"/>
+	</group>
+	<group name="Planeta FM">
+		<bookmark name="Poznań (daw. RMI)" url="http://94.23.88.162:7400"/></group><group name="Lokalne &amp; Regionalne"><bookmark name="Polskie Radio Rozgłośnia Regionalna &quot;RDC&quot; Warszawa" url="http://sc9232.xpx.pl:9232 "/><bookmark name="Radio GRA Toruń" url="http://live.gra.fm:9005/listen.pls"/><bookmark name="Polskie Radio Wrocław" url="http://gdansk1-3.radio.pionier.net.pl:8000/pl/prwroclaw.mp3 "/><bookmark name="Radio Kraków Małopolska" url="http://www.radio.pionier.net.pl/stream.pls?radio=radiokrakow"/><bookmark name="Polskie Radio Olsztyn" url="http://213.73.25.178:7055/ "/><bookmark name="Polskie Radio Gdańsk" url="http://ns590.ovh.net:8050/rg48 "/><bookmark name="Polskie Radio Katowice" url="http://radiointernetowe.net:7700/ "/><bookmark name="Blue FM Poznań" url="http://stream4.radioagora.pl:8000/bluefm.ogg"/><bookmark name="Polskie Radio Merkury w Poznaniu" url="http://poznan5.radio.pionier.net.pl:8000/merkury3.ogg "/><bookmark name="Polskie Radio Pomorza i Kujaw &quot;PiK&quot; Bydgoszcz" url="http://stream.radiopik.pl:9004/ "/><bookmark name="Kieleckie24" url="http://sc1.readycast.org:8112/ "/><bookmark name="MC Radio Poznań" url="http://poznan5-3.radio.pionier.net.pl:8000/mcradio.ogg "/><bookmark name="Radio Koszalin S.A." url="http://94.23.22.121:9092/ "/><bookmark name="Radio WAWA Warszawa" url="http://www.radio.pionier.net.pl/stream.pls?radio=wawa "/><bookmark name="Polskie Radio Szczecin" url="http://stream.nadaje.com/srodekmiasta.m3u "/><bookmark name="Radio FaMa Kielce" url="http://stream2.nadaje.com:8076 "/><bookmark name="Radio Kolor" url="http://stream3.nadaje.com:8072/"/><bookmark name="TOK FM" url="http://sask1-3.radio.pionier.net.pl:8000/pl/radiotok2.ogg"/><bookmark name="Radio PiK" url="http://194.169.227.170:8072/ "/><bookmark name="VOX FM - Przeboje zawsze młode" url="http://warszawa1-3.radio.pionier.net.pl:8000/vox.mp3"/><bookmark name="Radio Bielsko" url="http://www.radiobielsko.pl/RadioBielsko.m3u"/></group><group name="RMF"><bookmark name="RMF ROCK" url="http://217.74.72.3:8000/rmf_rockf"/><bookmark name="RMF CLASSIC ROCK" url="http://217.74.72.3:8000/rmf_classic_rockf"/><bookmark name="RMF GOLD" url="http://217.74.72.3:8000/rmf_goldf"/><bookmark name="RMF POLSKIE PRZEBOJE" url="http://217.74.72.3:8000/rmf_polskie_przebojef"/><bookmark name="RMF Wasza Muzyka" url="http://217.74.72.3:8000/rmf_wasza_muzyka"/><bookmark name="RMF Ziom" url="http://217.74.72.3:8000/rmf_ziom"/><bookmark name="RMF World Music" url="http://217.74.72.3:8000/rmf_world_music"/><bookmark name="RMF Szanty" url="http://217.74.72.3:8000/rmf_szanty"/><bookmark name="RMF Smooth Jazz" url="http://217.74.72.3:8000/rmf_smooth_jazz"/><bookmark name="RMF Słoneczne Przeboje" url="http://217.74.72.3:8000/rmf_sloneczne_przeboje"/><bookmark name="RMF Sade" url="http://217.74.72.3:8000/rmf_sade"/><bookmark name="RMF Rumor" url="http://217.74.72.3:8000/rmf_rumor"/><bookmark name="RMF Rock Progresywny" url="http://217.74.72.3:8000/rmf_rock_progresywny"/><bookmark name="RMF R&amp;B" url="http://217.74.72.3:8000/rmf_rnb"/><bookmark name="RMF Reggae" url="http://217.74.72.3:8000/rmf_reggae"/><bookmark name="RMF Punk" url="http://217.74.72.3:8000/rmf_punk"/><bookmark name="RMF Przebój Roku" url="http://217.74.72.3:8000/rmf_przeboj_roku"/><bookmark name="RMF PRL" url="http://217.74.72.3:8000/rmf_prl"/><bookmark name="RMF Pop &amp; Colors" url="http://217.74.72.3:8000/rmf_pnc"/><bookmark name="RMF Pop Lista" url="http://217.74.72.3:8000/rmf_pop_lista"/><bookmark name="RMF Polskie Przeboje" url="http://217.74.72.3:8000/rmf_polskie_przeboje"/><bookmark name="RMF Polski Rock" url="http://217.74.72.3:8000/rmf_polski_rock"/><bookmark name="RMF Party" url="http://217.74.72.3:8000/rmf_party"/><bookmark name="RMF Pacuda Country" url="http://217.74.72.3:8000/rmf_country"/><bookmark name="RMF Off Festival" url="http://217.74.72.3:8000/rmf_off_festival"/><bookmark name="RMF Nostalgia" url="http://217.74.72.3:8000/rmf_nostalgia"/><bookmark name="RMF Muzyka Klasyczna" url="http://217.74.72.3:8000/rmf_klasyczna"/><bookmark name="RMF Maxx Hop Bec" url="http://217.74.72.3:8000/rmf_hopbec"/><bookmark name="Hop Bęc Old School" url="http://217.74.72.3:8000/rmf_hop_bec_old_school"/><bookmark name="RMF Hot New" url="http://217.74.72.3:8000/rmf_hotnew"/><bookmark name="RMF Hip Hop" url="http://217.74.72.3:8000/rmf_hiphop"/><bookmark name="RMF Hard &amp; Heavy" url="http://217.74.72.3:8000/rmf_hardheavy"/><bookmark name="RMF Grunge" url="http://217.74.72.3:8000/rmf_grunge"/><bookmark name="RMF Groove" url="http://217.74.72.3:8000/rmf_groove"/><bookmark name="RMF Football" url="http://217.74.72.3:8000/rmf_footbalf"/><bookmark name="RMF Flamenco" url="http://217.74.72.3:8000/rmf_flamenco"/><bookmark name="RMF Extra" url="http://217.74.72.3:8000/rmf_extra"/><bookmark name="RMF Electro Shockwave" url="http://217.74.72.3:8000/rmf_electro_shockwave"/><bookmark name="RMF Dance" url="http://217.74.72.3:8000/rmf_dance"/><bookmark name="RMF Club" url="http://217.74.72.3:8000/rmf_club"/><bookmark name="RMF Celtic" url="http://217.74.72.3:8000/rmf_celtic"/><bookmark name="RMF Chillout" url="http://217.74.72.3:8000/rmf_chillout"/><bookmark name="RMF Bravo" url="http://217.74.72.3:8000/rmf_bravo"/><bookmark name="RMF Blues" url="http://217.74.72.3:8000/rmf_blues"/><bookmark name="RMF 2000" url="http://217.74.72.3:8000/rmf_2000"/><bookmark name="RMF 90s" url="http://217.74.72.3:8000/rmf_90s"/><bookmark name="RMF 80s" url="http://217.74.72.3:8000/rmf_80s"/><bookmark name="RMF 70s" url="http://217.74.72.3:8000/rmf_70s"/><bookmark name="RMF 60s" url="http://217.74.72.3:8000/rmf_60s"/><bookmark name="RMF 50s" url="http://217.74.72.3:8000/rmf_50s"/><bookmark name="RMF 20 lat" url="http://217.74.72.3:8000/rmf_20lat"/><bookmark name="10 lat Poplisty" url="http://217.74.72.3:8000/rmf_10_lat_poplisty"/><bookmark name="RMF Elo" url="http://217.74.72.3:8000/rmf_elo"/><bookmark name="RMF 5" url="http://217.74.72.3:8000/rmf_5"/><bookmark name="RMF 4 " url="http://217.74.72.3:8000/rmf_4"/><bookmark name="RMF 3 " url="http://217.74.72.3:8000/rmf_3"/><bookmark name="RMF 2 " url="http://217.74.72.3:8000/rmf_2"/><bookmark name="RMF Maxxx" url="http://217.74.72.3:8000/rmf_maxxx"/><bookmark name="RMF Classic" url="http://217.74.72.3:8000/rmf_classic"/><bookmark name="RMF FM" url="http://217.74.72.3:8000/rmf_fm"/><bookmark name="RMF Styl" url="http://217.74.72.3:8000/rmf_styl"/><bookmark name="RMF Muzyka filmowa" url="http://files.kusmierz.be/rmf/rmffilmowa-1.mp3"/><bookmark name="RMF Muzzo" url="http://files.kusmierz.be/rmf/rmfmuzzo-1.mp3"/><bookmark name="RMF Nippon" url="http://files.kusmierz.be/rmf/rmfnippon-1.mp3"/><bookmark name="RMF Piosenka Literacka" url="http://files.kusmierz.be/rmf/rmfpiosenkaliteracka-1.mp3"/></group><group name="POLSKASTACJA"><bookmark name="PolskaStacja Ballady Rockowe" url="http://polskastacja.pl/play/balladyrockowe.pls"/><bookmark name="Tylko Rock" url="http://polskastacja.pl/play/tr_hq.pls"/><bookmark name="Modern Rock" url="http://polskastacja.pl/play/mrock.pls"/><bookmark name="Mocne Brzmienie Rocka" url="http://polskastacja.pl/play/mocne.pls"/><bookmark name="Największe przeboje" url="http://polskastacja.pl/play/np_hq.pls"/><bookmark name="Największe stare przeboje" url="http://polskastacja.pl/play/aac_oldies.pls"/><bookmark name="Polskie Niezapomniane Przeboje" url="http://polskastacja.pl/play/pnp_hq.pls"/><bookmark name="Tylko Polskie Przeboje" url="http://polskastacja.pl/play/all_hq.pls"/><bookmark name="Przeboje we dwoje" url="http://polskastacja.pl/play/lovehq.pls"/><bookmark name="Muzyka Filmowa" url="http://www.polskastacja.pl/play/film.pls"/><bookmark name="Piosenki z filmów" url="http://polskastacja.pl/play/piosenkifilmowe.pls"/><bookmark name="Muzyka na TOPie" url="http://www.polskastacja.pl/play/mnt_hq.pls"/><bookmark name="Hot 100" url="http://polskastacja.pl/play/hot100.pls"/><bookmark name="Hot house" url="http://polskastacja.pl/play/aac_hothouse.pls"/><bookmark name="Party" url="http://polskastacja.pl/play/party.pls"/><bookmark name="Club Hits" url="http://polskastacja.pl/play/clubhits.pls"/><bookmark name="DJ Top 50" url="http://polskastacja.pl/play/aac_djtop50.pls"/><bookmark name="Drum and Bass" url="http://polskastacja.pl/play/aac_drumbass.pls"/><bookmark name="Elektro-house" url="http://polskastacja.pl/play/aac_electrohouse.pls"/><bookmark name="House &amp; Dance" url="http://polskastacja.pl/play/aac_house.pls"/><bookmark name="Eurowizja" url="http://polskastacja.pl/play/aac_eurowizja.pls"/><bookmark name="Disco polo" url="http://polskastacja.pl/play/aac_discopolo.pls"/><bookmark name="Polski hip-hop" url="http://polskastacja.pl/play/aac_polskihh.pls"/><bookmark name="Hip-hop" url="http://polskastacja.pl/play/aac_hiphop.pls"/><bookmark name="RnB" url="http://polskastacja.pl/play/rnb.pls"/><bookmark name="Blues" url="http://polskastacja.pl/play/blues.pls"/><bookmark name="Soul" url="http://polskastacja.pl/play/soul.pls"/><bookmark name="Reggae" url="http://polskastacja.pl/play/reggae.pls"/><bookmark name="Country" url="http://polskastacja.pl/play/aac_country.pls"/><bookmark name="Folk" url="http://polskastacja.pl/play/aac_folk.pls"/><bookmark name="Biesiada" url="http://polskastacja.pl/play/aac_biesiada.pls"/><bookmark name="Eden" url="http://polskastacja.pl/play/aac_eden.pls"/><bookmark name="Latino" url="http://polskastacja.pl/play/aac_latino.pls"/><bookmark name="Italia" url="http://polskastacja.pl/play/aac_italia.pls"/><bookmark name="Muzyka francuska" url="http://polskastacja.pl/play/aac_francja.pls"/><bookmark name="Klasyka muzyki elektronicznej" url="http://polskastacja.pl/play/aac_elektronika.pls"/><bookmark name="Klasycznie" url="http://polskastacja.pl/play/aac_klas.pls"/><bookmark name="Szanty" url="http://polskastacja.pl/play/aac_szanty.pls"/><bookmark name="Chillout" url="http://polskastacja.pl/play/aac_chillout.pls"/><bookmark name="Poezja śpiewana" url="http://polskastacja.pl/play/aac_poezja.pls"/><bookmark name="Contemporary Christian" url="http://polskastacja.pl/play/aac_ccm.pls"/><bookmark name="Polska Muzyka Chrzescijanska" url="http://polskastacja.pl/play/aac_chrzescijanska.pls"/><bookmark name="Dzieciom" url="http://polskastacja.pl/play/aac_dzieciom.pls"/><bookmark name="Lounge" url="http://polskastacja.pl/play/aac_lounge.pls "/><bookmark name="Punk" url="http://polskastacja.pl/play/aac_punk.pls "/><bookmark name="Ibiza Hits" url="http://polskastacja.pl/play/aac_ibizahits.pls"/><bookmark name="House Progressive" url="http://polskastacja.pl/play/aac_houseprogressive.pls"/><bookmark name="Polska Scena Alternatywna" url="http://polskastacja.pl/play/aac_psa.pls "/><bookmark name="Trance Vocal" url="http://polskastacja.pl/play/aac_trancevocal.pls "/></group><group name="Tuba FM"><bookmark name="ROXY FM" url="http://poznan5-4.radio.pionier.net.pl:8000/tuba8-1.mp3"/><bookmark name="Radio Złote Przeboje" url="http://poznan5-6.radio.pionier.net.pl:8000/tuba9-1.mp3"/></group>
+</group>
+</bookmarks>
